@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <radialGradient id="radial-gradient" cx="-166.83" cy="545.97" fx="-166.83" fy="545.97" r="1.47" gradientTransform="translate(20827.3 68353.46) scale(123.61 -125.04)" gradientUnits="userSpaceOnUse">
+      <stop offset=".56" stop-color="#6d4aff"/>
+      <stop offset=".99" stop-color="#aa8eff"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="123.37" y1="57.15" x2="58.78" y2="312.21" gradientTransform="translate(0 255.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e3d9ff"/>
+      <stop offset="1" stop-color="#7341ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="205.6" y1="-42.29" x2="173.84" y2="272.95" gradientTransform="translate(0 255.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".27" stop-color="#e3d9ff"/>
+      <stop offset="1" stop-color="#7341ff"/>
+    </linearGradient>
+  </defs>
+  <g id="background">
+    <rect width="256" height="256" rx="25" ry="25" style="fill: #15191c; stroke-width: 0px;"/>
+  </g>
+  <g id="protonmail">
+    <path d="M172.31,90.59l-23.66,19.89h.02s-31.01,27.72-31.01,27.72c-5.28,4.72-13.17,4.83-18.58.27l-49.05-41.29v79.46c0,8.97,7.19,16.26,16.06,16.26h106.23v-102.32Z" style="fill: url(#radial-gradient); stroke-width: 0px;"/>
+    <path d="M148.65,110.47l-30.99,27.72c-5.28,4.72-13.17,4.83-18.58.27l-49.05-41.29v-26.65c0-3.07,3.52-4.75,5.86-2.79l61.54,51.72c5.95,5.01,14.58,5.01,20.53,0l10.7-8.99Z" style="fill: url(#linear-gradient); fill-rule: evenodd; stroke-width: 0px;"/>
+    <path d="M172.31,90.57v102.33h16.96c8.87,0,16.06-7.29,16.06-16.26v-106.12c0-3.07-3.52-4.74-5.86-2.78l-27.17,22.83Z" style="fill: url(#linear-gradient-2); fill-rule: evenodd; stroke-width: 0px;"/>
+  </g>
+</svg>
